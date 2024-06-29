@@ -7,7 +7,7 @@ Myclass(){
 	NumberFormat.getNumberInstance();
 	//verify code
 	System.out.println("hello");
-	int x=7899;
+	int x=7;
 }
 }
 
