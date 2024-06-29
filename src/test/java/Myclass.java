@@ -6,6 +6,7 @@ int x;
 Myclass(){
 	NumberFormat.getNumberInstance();
 	//verify code
+	System.out.println("hello");
 }
 }
 
