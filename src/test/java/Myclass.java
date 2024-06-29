@@ -5,6 +5,7 @@ public abstract class Myclass {
 int x;
 Myclass(){
 	NumberFormat.getNumberInstance();
+	//verify code
 }
 }
 
